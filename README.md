@@ -8,7 +8,6 @@ Programming: Python (Advanced), Web Development (HTML/CSS/JS), Software Testing.
 Hardware & Troubleshooting: Diagnosis and repair of smartphones, laptops, desktops, and automation systems.
 
 Operating Systems: Windows & Linux.
-
 Tools: Adobe Photoshop, Adobe Premiere, MS Office.
 
 
