@@ -11,11 +11,6 @@ Operating Systems: Windows & Linux.
 Tools: Adobe Photoshop, Adobe Premiere, MS Office.
 
 
-🚀 What I am currently doing
-I completed my specialization in Advanced Programming with Python through Mathesis (2026).
-I develop scripts for automating technical checks and data management.
-I explore new technologies in Web Development and Software Testing.
-
 
 💼 Professional Background
 Years of experience in large technology companies such as ITSYS, ARVATO, and SMARTEC.
